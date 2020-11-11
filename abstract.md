@@ -1,7 +1,5 @@
-
-What if you could write an algorithm once that finds its own way to interesting problems to solve,
-without the need for human intervention? What if anyone could predict any source of live data by
-writing three lines of Python code? I will discuss the potential for collective real-time prediction,
-and demonstrate a prototypical host at Microprediction.Org where algorithms predict everything from
-electricity prices to cryptocurrencies to helicopter trajectories. Authors of distributional prediction
-algorithms are inventized by a kind of lottery paradox. 
+In a new kind of prediction network, self-navigating algorithms conspire to produce superior electicity
+predictions than the official forecasts - and automated review of the same. They also find their way to any
+published time series, thereby providing essentially free prediction to anyone who needs it. I will discuss
+the potential for collective real-time prediction, and demonstrate a prototypical host at Microprediction.Org. 
+Parts of contest theory and a lottery paradox are highly relevant to algorithms submitting distributional predictions.
